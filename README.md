@@ -1,2 +1,3 @@
-# ldra download: https://drive.google.com/file/d/1DKdzxV0TnZB-RSTnGzEDrdt7ycm_CLxi/view?usp=sharing
-# Installation Password: WxhrjB7g4q
+- ldra download: https://drive.google.com/file/d/1DKdzxV0TnZB-RSTnGzEDrdt7ycm_CLxi/view?usp=sharing
+- Docs: https://docs.google.com/presentation/d/1qbAQUMS0Qu2ZDEmtQlOFzNlY9fhZ3yImvk-DeetsZVE/edit?usp=sharing
+- Installation Password: WxhrjB7g4q
